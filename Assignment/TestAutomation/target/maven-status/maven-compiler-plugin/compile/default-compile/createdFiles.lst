@@ -1,0 +1,5 @@
+com\pages\PG_Common.class
+com\codebase\TestBase.class
+com\tests\TestFunction.class
+com\beforesuite\Helper.class
+com\tests\TestSuite.class
